@@ -1,3 +1,6 @@
 # python_exercises
 
-Opgave lavet af
+Opgave lavet af  
+Daniel Poulsen  
+Artem Ivanov  
+Lasse Birk
